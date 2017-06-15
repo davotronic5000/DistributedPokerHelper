@@ -1,0 +1,35 @@
+{
+  "name": "DistributedPokerHelper",
+  "private": true,
+  "dependencies": {
+    "jquery": "3.2.1",
+    "jquery-validation": "1.16.0",
+    "bootstrap": "boostrap#v3.3.7",
+    "font-awesome": "fontawesome#v4.7.0",
+    "angular": "v1.6.5-build.5353+sha.136a42a",
+    "angular-route": "v1.6.5-build.5353+sha.136a42a",
+    "angular-sanitize": "v1.6.5-build.5353+sha.136a42a",
+    "angular-cookies": "v1.6.5-build.5403+sha.420ceb6",
+    "angular-animate": "v1.6.5-build.5353+sha.136a42a",
+    "angular-bootstrap": "v1.1.0",
+    "angular-signalr-hub": "v1.6.3"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/js/bootstrap.js",
+        "dist/css/bootstrap.css",
+        "less/bootstrap.less"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "css/font-awesome.css"
+      ]
+    }
+  },
+  "resolutions": {
+    "angular": "1.6.5-build.5403+sha.420ceb6",
+    "angular-cookies": "v1.6.5-build.5403+sha.420ceb6"
+  }
+}

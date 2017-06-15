@@ -1,0 +1,16 @@
+{
+  "name": "DistributedPokerHelper",
+  "version": "1.0.0",
+  "devDependencies": {
+    "bower": "1.8.0",
+    "gulp": "3.9.1",
+    "gulp-load-plugins": "1.5.0",
+    "gulp-util": "3.0.8",
+    "gulp-autoprefixer": "3.1.1",
+    "del": "2.2.2",
+    "gulp-plumber": "1.1.0",
+    "wiredep": "4.0.0",
+    "gulp-inject": "4.2.0",
+    "gulp-ng-config": "1.4.0"
+  }
+}
